@@ -5,3 +5,4 @@ seaborn
 folium
 streamlit_folium
 openpyxl
+scikit-learn
